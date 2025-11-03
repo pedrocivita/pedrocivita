@@ -8,9 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-civita-b5178b1a7/)
 
 📧 **Contact:** 
-- Personal: [pedro.civita@gmail.com](mailto:pedro.civita@gmail.com)
-- Academic: [pedrotpc@al.insper.edu.br](mailto:pedrotpc@al.insper.edu.br)
-- Professional: [pedrocivita@actionexec.com](mailto:pedrocivita@actionexec.com)
+Personal: [pedro.civita@gmail.com](mailto:pedro.civita@gmail.com)
+Academic: [pedrotpc@al.insper.edu.br](mailto:pedrotpc@al.insper.edu.br)
+Professional: [pedrocivita@actionexec.com](mailto:pedrocivita@actionexec.com)
 
 </div>
 
@@ -88,8 +88,8 @@ Computer Engineering student from Brazil passionate about building modern web ap
 ### 💬 Let's Connect!
 
 📧 **Contact:** 
-- Personal: [pedro.civita@gmail.com](mailto:pedro.civita@gmail.com)
-- Academic: [pedrotpc@al.insper.edu.br](mailto:pedrotpc@al.insper.edu.br)
-- Professional: [pedrocivita@actionexec.com](mailto:pedrocivita@actionexec.com)
+Personal: [pedro.civita@gmail.com](mailto:pedro.civita@gmail.com)
+Academic: [pedrotpc@al.insper.edu.br](mailto:pedrotpc@al.insper.edu.br)
+Professional: [pedrocivita@actionexec.com](mailto:pedrocivita@actionexec.com)
 
 </div>
