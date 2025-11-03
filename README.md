@@ -5,8 +5,12 @@
 ### Computer Engineering Student | Full Stack Developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pedrocivita&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pedrocivita)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pedro-civita-b5178b1a7/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pedrocivita)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-civita-b5178b1a7/)
+
+📧 **Contact:** 
+- Personal: [pedro.civita@gmail.com](mailto:pedro.civita@gmail.com)
+- Academic: [pedrotpc@al.insper.edu.br](mailto:pedrotpc@al.insper.edu.br)
+- Professional: [pedrocivita@actionexec.com](mailto:pedrocivita@actionexec.com)
 
 </div>
 
@@ -83,6 +87,9 @@ Computer Engineering student from Brazil passionate about building modern web ap
   
 ### 💬 Let's Connect!
 
-Open to collaborations and always learning something new.
+📧 **Contact:** 
+- Personal: [pedro.civita@gmail.com](mailto:pedro.civita@gmail.com)
+- Academic: [pedrotpc@al.insper.edu.br](mailto:pedrotpc@al.insper.edu.br)
+- Professional: [pedrocivita@actionexec.com](mailto:pedrocivita@actionexec.com)
 
 </div>
