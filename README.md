@@ -71,31 +71,3 @@ Computer Engineering student from Brazil passionate about building modern web ap
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrocivita&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocivita&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💬 Let's Connect!
-
-📧 **Contact:**
-
-Personal: [pedro.civita@gmail.com](mailto:pedro.civita@gmail.com)
-
-Academic: [pedrotpc@al.insper.edu.br](mailto:pedrotpc@al.insper.edu.br)
-
-Professional: [pedrocivita@actionexec.com](mailto:pedrocivita@actionexec.com)
-
-</div>
