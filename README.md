@@ -2,7 +2,7 @@
   
 # Pedro Civita
 
-### Computer Engineering Student | Full Stack Developer
+### Computer Engineering - Insper | Full Stack Engineer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pedrocivita&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pedrocivita)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-civita-b5178b1a7/)
